@@ -1,4 +1,4 @@
-# 👋 Turning Coffee Into Code & Ideas Into Impact — I'm Shivam Suchak
+# Crafting AI and Communities, Hi 👋, I'm Shivam Suchak
 
 <img align="right" alt="GIF" src="ratatui-spin-light.gif" width="500" height="320" />
 
