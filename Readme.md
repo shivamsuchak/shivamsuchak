@@ -1,8 +1,8 @@
-## 👋 Hello Floks, I'm Shivam Suchak
+# 👋 Hello Floks, I'm Shivam Suchak
 
 <img align="right" alt="GIF" src="ratatui-spin-light.gif" width="500" height="320" />
 
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/shivam-suchak/" target="_blank">
@@ -24,11 +24,17 @@
 
 ---
 
-🎓 **Data Science Graduate @ University of Mannheim** (Graduating August 2025)  
-🧠 **AI Explorer @ T-Systems International** — Building and scaling AI-driven prototypes  
-🎤 **Lead Organizer @ GDG Mannheim** | **Founder @ GDSC Mannheim**  
+<br>
+
+- 🎓 **Data Science Graduate @ University of Mannheim** (Graduating August 2025) <br><br>
+- 🧠 **AI Explorer @ T-Systems International** — Building and scaling AI-driven prototypes<br><br>
+- 🎤 **Lead Organizer @ GDG Mannheim** | **Founder @ GDSC Mannheim**  <br>
+
+
+<br>
 
 ---
+
 
 ### ✨ About Me (aka: Why You Might Want Me on Your Team)
 I'm that person who enjoys building things that are as smart as they are scalable — whether it's automating a B2B marketplace using AI, or rallying a community of 400+ developers to build meaningful solutions together.  
@@ -42,7 +48,7 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
+<p align="center">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
@@ -100,4 +106,6 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
   </tr>
 </table>
 
-> _"Code with curiosity. Lead with empathy. And always, always keep learning."_
+>_<p align="center">  <em>"Code with curiosity. Lead with empathy. And always, always keep learning."</em> </p>_
+
+
