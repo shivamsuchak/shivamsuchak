@@ -1,4 +1,4 @@
-# Crafting AI and Communities, Hi 👋, I'm Shivam Suchak
+## 👋 Hi, I'm Shivam Suchak - Turning Data into Insight and Ideas into Reality
 
 <img align="right" alt="GIF" src="ratatui-spin-light.gif" width="500" height="320" />
 
