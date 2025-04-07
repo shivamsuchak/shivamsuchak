@@ -86,7 +86,7 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 ---
 
 ### 🔗 Let’s Connect
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/shivam-suchak/" target="_blank">
