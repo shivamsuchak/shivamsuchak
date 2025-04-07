@@ -1,6 +1,6 @@
 ## 👋 Hello Floks, I'm Shivam Suchak
 
-![ViewCount](ratatui-spin-light.gif)
+<img align="right" alt="GIF" src="ratatui-spin-light.gif" width="500" height="320" />
 
 <table>
   <tr>
