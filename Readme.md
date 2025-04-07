@@ -1,4 +1,4 @@
-# 👋 Hello Floks, I'm Shivam Suchak
+# 👋 Turning Coffee Into Code & Ideas Into Impact — I'm Shivam Suchak
 
 <img align="right" alt="GIF" src="ratatui-spin-light.gif" width="500" height="320" />
 
