@@ -2,6 +2,8 @@
 
 <img align="right" alt="GIF" src="ratatui-spin-light.gif" width="500" height="320" />
 
+
+
 <table align="center">
   <tr>
     <td>
@@ -83,6 +85,7 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamsuchak&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsuchak&layout=compact&theme=radical)
 
+
 ---
 
 ### 🔗 Let’s Connect
@@ -105,6 +108,12 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
     </td>
   </tr>
 </table>
+
+---
+
+<img align="center" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRqamhlMnhtZnhkcGJvaXdraGhxNmE5aTF1NWI3eTlwYmg4cXV6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500" height="320" /><img align="center" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRqamhlMnhtZnhkcGJvaXdraGhxNmE5aTF1NWI3eTlwYmg4cXV6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500" height="320" />
+
+---
 
 >_<p align="center">  <em>"Code with curiosity. Lead with empathy. And always, always keep learning."</em> </p>_
 
