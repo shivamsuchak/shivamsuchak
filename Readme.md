@@ -28,10 +28,10 @@
 
 <br>
 
-- 🕵️ **Data Scientist @ CGM** — Data and Gen AI Product Design<br><br>
-- 🎓 **Data Science Graduate @ University of Mannheim** (Graduating August 2025) <br><br>
-- 🧠 **AI Explorer @ T-Systems International** — Building and scaling AI-driven prototypes<br><br>
-- 🎤 **Lead Organizer @ GDG Mannheim** | **Founder @ GDSC Mannheim**  <br>
+- **Data Scientist @ CGM** — Data and Gen AI Product Design<br><br>
+- **Data Science Graduate @ University of Mannheim** (Graduating August 2025) <br><br>
+- **AI Explorer @ T-Systems International** — Building and scaling AI-driven prototypes<br><br>
+- **Lead Organizer @ GDG Mannheim** | **Founder @ GDSC Mannheim**  <br>
 
 
 <br>
@@ -50,7 +50,7 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 <p align="center">
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -67,21 +67,21 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 
 ---
 
-### 🌍 Community Work
-- 👨‍💻 Founder of **GDSC Mannheim** — We went from 0 to 400+ members in less than a year. 😎
-- 🎯 Lead of **GDG Mannheim**, organizing hackathons, bootcamps, and tech events.
-- 🤝 Hosted workshops with Google, SAP, and Postman speakers.
+### Community Work
+- Founder of **GDSC Mannheim** — We went from 0 to 400+ members in less than a year. 😎
+- Lead of **GDG Mannheim**, organizing hackathons, bootcamps, and tech events.
+- Hosted workshops with Google, SAP, and Postman speakers.
 
 ---
 
-### 🧠 Fun Facts
+### Fun Facts
 - I once explained LLMs to someone using *pizza delivery metaphors* — and it worked 🍕
 - I enjoy helping international students navigate tech + life in Germany (even got featured in a Uni mag 📰)
 - I keep trying to train AI to understand sarcasm. Still a work in progress…
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamsuchak&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsuchak&layout=compact&theme=radical)
