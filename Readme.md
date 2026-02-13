@@ -28,7 +28,7 @@
 
 <br>
 
-- 🕵️ **Data Scientist @ CGM ** — Data and Gen AI Product Design<br><br>
+- 🕵️ **Data Scientist @ CGM** — Data and Gen AI Product Design<br><br>
 - 🎓 **Data Science Graduate @ University of Mannheim** (Graduating August 2025) <br><br>
 - 🧠 **AI Explorer @ T-Systems International** — Building and scaling AI-driven prototypes<br><br>
 - 🎤 **Lead Organizer @ GDG Mannheim** | **Founder @ GDSC Mannheim**  <br>
