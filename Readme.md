@@ -65,6 +65,7 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
 <a href="https://www.openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a>
+<a href="" target="_blank"> <img src="https://images.seeklogo.com/logo-png/61/1/databricks-icon-logo-png_seeklogo-611588.png" alt="databricks" width="40" height="40"/></a>
 </p>
 
 ---
