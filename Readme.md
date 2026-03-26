@@ -62,7 +62,9 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40" height="40"/></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
+<a href="https://www.openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="openai" width="40" height="40"/></a>
 </p>
 
 ---
@@ -89,7 +91,7 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 
 ---
 
-### 🔗 Let’s Connect
+
 <table align="center">
   <tr>
     <td>
@@ -112,9 +114,13 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 
 ---
 
-<img align="center" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRqamhlMnhtZnhkcGJvaXdraGhxNmE5aTF1NWI3eTlwYmg4cXV6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500" height="320" />
+<img align="left" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRqamhlMnhtZnhkcGJvaXdraGhxNmE5aTF1NWI3eTlwYmg4cXV6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500" height="320" />
 
----
+<br>
+<br>
+<br>
+<br>
+<br>
 
 >_<p align="center">  <em>"Code with curiosity. Lead with empathy. And always, always keep learning."</em> </p>_
 
