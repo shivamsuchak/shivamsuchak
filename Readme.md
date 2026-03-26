@@ -112,7 +112,7 @@ I’m also writing my thesis in collaboration with the University of Heidelberg 
 
 ---
 
-<img align="center" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRqamhlMnhtZnhkcGJvaXdraGhxNmE5aTF1NWI3eTlwYmg4cXV6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500" height="320" /><img align="center" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRqamhlMnhtZnhkcGJvaXdraGhxNmE5aTF1NWI3eTlwYmg4cXV6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRqamhlMnhtZnhkcGJvaXdraGhxNmE5aTF1NWI3eTlwYmg4cXV6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="500" height="320" />
 
 ---
 
