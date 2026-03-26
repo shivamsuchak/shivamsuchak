@@ -1,5 +1,7 @@
-## 👋 Hi, I'm Shivam Suchak - Turning Data into Insight and Ideas into Reality
-
+<h2 align="center" style="color: #1F8ECD; font-size: 2.5em;">
+  👋 Hi, I'm Shivam Suchak<br>
+  Turning Data into Insight and Ideas into Reality
+</h2>
 <img align="right" alt="GIF" src="ratatui-spin-light.gif" width="500" height="320" />
 
 
